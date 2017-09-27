@@ -1,4 +1,4 @@
-# Self-Projects
+# Side-Projects
 - [1A2B](https://github.com/michaelrevlis/1A2B/blob/master/README.md)
 
   This is a small puzzle game written in Swift. You can find it on App Store - [4Digits TimeAttack](https://itunes.apple.com/tw/app/4digits-timeattack/id1173428410?mt=8).
