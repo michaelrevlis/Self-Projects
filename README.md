@@ -14,3 +14,11 @@
 - [MimicOfGameCrazy](https://github.com/michaelrevlis/MimicOfGameCrazy/blob/master/README.md) (2016)
 
   This is a self-practicing project written in Swift which aims to build a mimic of 巴哈姆特's app - 電玩瘋. Youtube API is implemented in this app.
+
+
+# Contributions at work
+- [Symphox Information Co.,Ltd.](https://github.com/michaelrevlis/Symphox/blob/master/README.md)
+
+  Developed a private CocoaPod framework for company with code coverage over 85%. Framework is designed with protocol oriented programming and builder pattern.
+  
+  Proposed new features and implemented them proactively. (Face ID/Touch ID login, UI animations, local push notifications, deeplink and etc.)
