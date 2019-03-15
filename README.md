@@ -1,4 +1,8 @@
 # Side-Projects
+- (in progress...) (2019)
+
+  This will be an app describing the life that my beloved and I have from day one to now; including 4 games with the use of CoreLocation, CoreMotion, some process on UIImageView, image recognization and lots of animations. It's a Swift project.
+
 - [1A2B](https://github.com/michaelrevlis/1A2B/blob/master/README.md) (2016)
 
   This is a small puzzle game written in Swift. My first app on App Store. :D
