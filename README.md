@@ -1,6 +1,6 @@
 # Contributions at work
 
-## 91APP Inc. (TW-6741) (2019.5~)
+## 91APP Inc. (TW-6741) (2019.5~NOW)
 
 Developing features and fundamental components, designing structure, and mentoring.
 
